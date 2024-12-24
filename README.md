@@ -1,5 +1,11 @@
 # ArchNemesis: First Strike! 🚀
 
+<div align="center">
+
+![Nerdy GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN4dzRjczlzOTBiYXFkcnhneWluOHdoeXVrODN5eGgzNXliZWtxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tg9jENf7x11tdJnyMQ/giphy.gif)
+
+</div>
+
 Welcome to **ArchNemesis**, the ultimate script to set up Arch Linux like a pro! 💻✨  
 With just a few commands, you'll have a fully configured system ready for development, gaming, or whatever challenge comes your way! 😎
 
